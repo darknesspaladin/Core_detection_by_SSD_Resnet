@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ea5554-f05a-4f27-bbd1-73ea46e5b52a" name="默认的" comment="" />
+    <list default="true" id="f5ea5554-f05a-4f27-bbd1-73ea46e5b52a" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/热工五部深度视觉项目.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/热工五部深度视觉项目.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VogIMQcv1UMqLl32dgoozNbiU1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -104,14 +112,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="938" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577957814759" />
-    <state x="8" y="48" key="SettingsEditor" timestamp="1577944762841">
+    <state x="8" y="48" key="SettingsEditor" timestamp="1577958152034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="8" y="48" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577944762841" />
-    <state x="463" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1577943346076">
+    <state x="8" y="48" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577958152034" />
+    <state x="463" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1577958020886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="463" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577943346076" />
+    <state x="463" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577958020886" />
     <state x="361" y="71" key="scopes" timestamp="1577941757277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
